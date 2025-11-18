@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Miguel Beltran
 
-🎓 UC Davis Computer Science (2027)
+🎓 UC Davis Computer Science (2027)  
 🧑‍💻 Full-Stack & Cloud-Native Engineer
 🚀 Building scalable, production-ready applications with **Next.js**, **TypeScript**, **Supabase**, **Docker**, and **Python**
 ☁️ Interested in distributed systems, backend engineering, cloud computing, and real-time apps
