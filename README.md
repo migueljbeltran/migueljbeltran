@@ -23,7 +23,7 @@
 **Next.js • TypeScript • Supabase • Google Calendar API**  
 A cloud-native productivity app featuring authentication, relational data models, real-time task tracking, and automated scheduling via the Google Calendar API.  
 
-👉 [View Repository](https://github.com/traz3n/Questify)
+👉 [View Repository](https://github.com/migueljbeltran/Questify)
 
 ---
 
@@ -31,7 +31,7 @@ A cloud-native productivity app featuring authentication, relational data models
 **Java • OOP • Data Structures**  
 CLI-based inventory system using clean OOP design, collections, and modular architecture.  
 
-👉 [View Repository](https://github.com/traz3n/Kitch)
+👉 [View Repository](https://github.com/migueljbeltran/Kitch)
 
 ---
 
@@ -45,5 +45,5 @@ CLI-based inventory system using clean OOP design, collections, and modular arch
 
 ## 📫 Connect With Me  
 
-- **LinkedIn:** https://www.linkedin.com/in/miguel-beltran-184741294/  
+- **LinkedIn:** https://www.linkedin.com/in/miguel-j-beltran/  
 - **Email:** migueljoaquinbeltran@gmail.com  
