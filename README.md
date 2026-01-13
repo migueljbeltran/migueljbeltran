@@ -79,14 +79,6 @@ Inventory management system with efficient data structures
 
 ---
 
-## 📊 GitHub Stats
-
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=migueljbeltran&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migueljbeltran&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 🎯 Currently Seeking
 
 **Summer 2026 Software Engineering Internships**
