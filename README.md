@@ -46,7 +46,7 @@ I'm passionate about building scalable systems and exploring low-level computer 
 
 ## 🌟 Featured Projects
 
-### 🖥️ [8-Bit CPU](https://github.com/migueljbeltran/8-bit-cpu)
+### 🖥️ [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
 Custom processor design with 16-instruction ISA and 5-stage pipeline
 
 - Designed complete CPU architecture in Logisim with microcode-based control unit
