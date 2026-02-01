@@ -1,110 +1,127 @@
-# Hey there! 👋 I'm Miguel Beltran
+<div align="center">
 
-**Computer Science @ UC Davis** • **Class of 2027** • **Software Engineering Intern Seeker**
+# Miguel Beltran
 
-I'm passionate about building scalable systems and exploring low-level computer architecture. From designing CPUs to developing full-stack web applications, I love tackling challenges across the entire computing stack.
+**Computer Science @ UC Davis | Class of 2027**
 
----
+Grew up competing in games and building the PCs to run them. Now I engineer the software.
 
-## 🚀 What I'm Working On
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-j-beltran/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migueljoaquinbeltran@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migueljbeltran)
 
-- 🎮 **Questify** — Gamified productivity platform with server-authoritative state management
-- 🏫 **ASUCD Picnic Day** — Event scheduler serving 70,000+ attendees with real-time updates
-- 📚 **Learning** — Distributed systems, real-time data pipelines, and advanced database optimization
-
----
-
-## 💻 Tech Stack
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**Frontend & Full-Stack**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend & Databases**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-
-**DevOps & Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## About Me
 
-### 🖥️ [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
-Custom processor design with 16-instruction ISA and 5-stage pipeline
+I've been tearing apart hardware and exploring game systems since I was a kid. That hands-on curiosity -- wanting to know *how things actually work* under the hood -- is what pulled me into computer science. Today I build everything from custom CPU architectures to full-stack platforms serving tens of thousands of users. I'm drawn to engineering that combines technical depth with real impact: the kind of work that powers the games, tools, and platforms people rely on every day.
 
-- Designed complete CPU architecture in Logisim with microcode-based control unit
-- Implemented data forwarding and hazard detection mechanisms
-- 21 control signals across 17 microcode states
-
-**Tech:** Logisim, Digital Logic, Assembly
+**I'm actively seeking Summer 2026 software engineering internships** in gaming, systems, or full-stack development.
 
 ---
 
-### ⚔️ [Questify](https://github.com/migueljbeltran/Questify)
-Gamified productivity platform with real-time synchronization
+## What I'm Building
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| **Assistant Technical Director** | ASUCD Picnic Day | Nov 2025 -- Present |
+| **Software Engineer** | Include / UC Davis Space & Satellite Systems | Oct 2025 -- Present |
+| **Software Engineer** | Google Developer Student Club | Oct 2024 -- June 2025 |
+
+**Picnic Day** -- Developing a React/TypeScript event scheduling platform with MapBox GL JS integration and a Supabase REST API backend, built to serve UC Davis's 70,000+ annual Picnic Day attendees.
+
+**Include** -- Building a production Next.js website for UC Davis Space and Satellite Systems, shipping features in Agile sprints with structured code reviews.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
+
+Custom 8-bit processor designed from the ground up in Logisim.
+
+- Full 5-stage pipeline with data forwarding and hazard detection
+- 16-instruction ISA with microcode-based control unit
+- 21 control signals managed across 17 microcode states
+
+`Logisim` `Digital Logic` `Computer Architecture` `Assembly`
+
+---
+
+### [Questify](https://github.com/migueljbeltran/Questify)
+
+Gamified productivity platform where users earn XP, unlock achievements, and level up by completing real tasks.
 
 - Server-authoritative state management preventing client-side manipulation
 - Row-Level Security policies for multi-tenant data isolation
-- Sentry error monitoring and Playwright E2E testing
+- CI/CD pipeline via GitHub Actions with Playwright E2E testing and Sentry monitoring
 
-**Tech:** Next.js, TypeScript, Supabase, PostgreSQL
-
----
-
-### 📦 [Kitch](https://github.com/migueljbeltran/Kitch)
-Inventory management system with efficient data structures
-
-- MVC architecture with Observer pattern for reactive UI
-- Binary search (O(log n)) and quicksort (O(n log n)) optimizations
-- Atomic write operations preventing data corruption
-
-**Tech:** Java, Swing, MVC
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `GitHub Actions`
 
 ---
 
-## 🎯 Currently Seeking
+### Other Notable Work
 
-**Summer 2026 Software Engineering Internships**
+**Python/Flask Slack Bot** -- FAQ automation with fuzzy-matching search, integrated via the Slack API and adopted by 6+ board members for daily use.
 
-I'm actively looking for opportunities to contribute to impactful projects in:
-- Full-stack development
-- Backend systems and APIs
-- Cloud infrastructure
-- Systems programming
+**React Admin Dashboard** -- Event and member management platform for an organization of 100+ members, backed by Firestore.
+
+**[Kitch](https://github.com/migueljbeltran/Kitch)** -- Kitchen inventory management system built in Java with MVC architecture, binary search optimization, and atomic write operations.
 
 ---
 
-## 📫 Let's Connect
+## Coursework
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-j-beltran/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:migueljoaquinbeltran@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/migueljbeltran)
-
----
-
-## 🏆 Achievements
-
-**Google Build with AI Showcase (2025)** — Recognized for innovative system design and technical implementation
+Data Structures -- Algorithms -- Object-Oriented Programming -- Computer Architecture -- Linear Algebra -- Machine Learning
 
 ---
 
 <div align="center">
-  <i>💡 Open to collaborations, internships, and interesting technical conversations!</i>
+
+Open to collaborations, internships, and interesting technical conversations.
+
+**Let's build something worth playing.**
+
 </div>
