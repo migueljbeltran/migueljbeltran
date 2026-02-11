@@ -23,6 +23,67 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 
 ---
 
+## Featured Projects
+
+### [Deadlock Tracker](https://github.com/migueljbeltran/deadlock-tracker) *(in development)*
+
+Full-stack statistics tracker for Deadlock (Valve's MOBA shooter) with an occult noir UI themed to the game's aesthetic.
+
+- Server-side integration with the Steam Web API and Deadlock Game Data API for player lookup, match history, hero stats, and regional leaderboards
+- PostgreSQL database with a relational Prisma schema modeling players, matches, heroes, abilities, and items with optimized indexes
+- Custom "Patron's Ledger" design system -- art deco dividers, sigil animations, soul-glow effects, and a full CSS custom property theme
+- Reusable component library (Button, Card, Input, SigilLoader) built with variant support via `clsx` and `tailwind-merge`
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS` `Framer Motion` `Steam API`
+
+---
+
+### [Questify](https://github.com/migueljbeltran/Questify) *(in development)*
+
+Gamified productivity platform where users earn XP, unlock achievements, and level up by completing real tasks.
+
+- Server-authoritative state management preventing client-side manipulation
+- Row-Level Security policies for multi-tenant data isolation
+- CI/CD pipeline via GitHub Actions with Playwright E2E testing and Sentry monitoring
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `GitHub Actions`
+
+---
+
+### [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
+
+Custom 8-bit processor designed from the ground up in Logisim.
+
+- Full 5-stage pipeline with data forwarding and hazard detection
+- 16-instruction ISA with microcode-based control unit
+- 21 control signals managed across 17 microcode states
+
+`Logisim` `Digital Logic` `Computer Architecture` `Assembly`
+
+---
+
+### [miguel-beltran.exe](https://github.com/migueljbeltran/miguel-beltran.exe)
+
+Personal portfolio site built with a Neo-Brutalist design philosophy: high contrast, raw typography, and asymmetrical layouts.
+
+- Custom reactive crosshair cursor with CSS-only glitch animations using `mix-blend-mode: difference`
+- Live GitHub stats streamed via the GitHub API -- repos, followers, commits, and contribution graph
+- Scroll-reveal animations with IntersectionObserver and infinite-scroll marquee banners
+
+`HTML5` `Tailwind CSS` `Vanilla JS` `GitHub API`
+
+---
+
+### Other Notable Work
+
+**Python/Flask Slack Bot** -- FAQ automation with fuzzy-matching search, integrated via the Slack API and adopted by 6+ board members for daily use.
+
+**React Admin Dashboard** -- Event and member management platform for an organization of 100+ members, backed by Firestore.
+
+**[Kitch](https://github.com/migueljbeltran/Kitch)** -- Kitchen inventory management system built in Java with MVC architecture, binary search optimization, and atomic write operations.
+
+---
+
 ## What I'm Building
 
 | Role | Organization | Period |
@@ -79,70 +140,9 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 
 ---
 
-## Featured Projects
-
-### [Deadlock Tracker](https://github.com/migueljbeltran/deadlock-tracker) *(in development)*
-
-Full-stack statistics tracker for Deadlock (Valve's MOBA shooter) with an occult noir UI themed to the game's aesthetic.
-
-- Server-side integration with the Steam Web API and Deadlock Game Data API for player lookup, match history, hero stats, and regional leaderboards
-- PostgreSQL database with a relational Prisma schema modeling players, matches, heroes, abilities, and items with optimized indexes
-- Custom "Patron's Ledger" design system -- art deco dividers, sigil animations, soul-glow effects, and a full CSS custom property theme
-- Reusable component library (Button, Card, Input, SigilLoader) built with variant support via `clsx` and `tailwind-merge`
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS` `Framer Motion` `Steam API`
-
----
-
-### [miguel-beltran.exe](https://github.com/migueljbeltran/miguel-beltran.exe)
-
-Personal portfolio site built with a Neo-Brutalist design philosophy: high contrast, raw typography, and asymmetrical layouts.
-
-- Custom reactive crosshair cursor with CSS-only glitch animations using `mix-blend-mode: difference`
-- Live GitHub stats streamed via the GitHub API -- repos, followers, commits, and contribution graph
-- Scroll-reveal animations with IntersectionObserver and infinite-scroll marquee banners
-
-`HTML5` `Tailwind CSS` `Vanilla JS` `GitHub API`
-
----
-
-### [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
-
-Custom 8-bit processor designed from the ground up in Logisim.
-
-- Full 5-stage pipeline with data forwarding and hazard detection
-- 16-instruction ISA with microcode-based control unit
-- 21 control signals managed across 17 microcode states
-
-`Logisim` `Digital Logic` `Computer Architecture` `Assembly`
-
----
-
-### [Questify](https://github.com/migueljbeltran/Questify) *(in development)*
-
-Gamified productivity platform where users earn XP, unlock achievements, and level up by completing real tasks.
-
-- Server-authoritative state management preventing client-side manipulation
-- Row-Level Security policies for multi-tenant data isolation
-- CI/CD pipeline via GitHub Actions with Playwright E2E testing and Sentry monitoring
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `GitHub Actions`
-
----
-
-### Other Notable Work
-
-**Python/Flask Slack Bot** -- FAQ automation with fuzzy-matching search, integrated via the Slack API and adopted by 6+ board members for daily use.
-
-**React Admin Dashboard** -- Event and member management platform for an organization of 100+ members, backed by Firestore.
-
-**[Kitch](https://github.com/migueljbeltran/Kitch)** -- Kitchen inventory management system built in Java with MVC architecture, binary search optimization, and atomic write operations.
-
----
-
 ## Coursework
 
-Data Structures -- Algorithms -- Object-Oriented Programming -- Computer Architecture -- Linear Algebra -- Machine Learning
+Algorithm Design & Analysis -- Data Structures & Algorithms -- Object-Oriented Programming -- Machine Dependent Programming -- Computer Architecture -- Linear Algebra -- Machine Learning
 
 ---
 
