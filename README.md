@@ -17,9 +17,9 @@ Grew up competing in games and building the PCs to run them. Now I engineer the 
 
 ## About Me
 
-I've been tearing apart hardware and exploring game systems since I was a kid. That hands-on curiosity -- wanting to know *how things actually work* under the hood -- is what pulled me into computer science. Today I build everything from custom CPU architectures to full-stack platforms serving tens of thousands of users. I'm drawn to engineering that combines technical depth with real impact: the kind of work that powers the games, tools, and platforms people rely on every day.
+I've been tearing apart hardware and exploring game systems since I was a kid. That curiosity -- wanting to know *how things actually work* under the hood -- is what pulled me into computer science. I have too many hobbies, so I build software around the things I actually care about -- games, tools, and platforms that aren't boring.
 
-**I'm actively seeking Summer 2026 software engineering internships** in gaming, systems, or full-stack development.
+**I'm actively seeking Summer 2026 software engineering internships** in full-stack development, gaming, or systems.
 
 ---
 
