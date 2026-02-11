@@ -7,6 +7,7 @@
 Grew up competing in games and building the PCs to run them. Now I engineer the software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-j-beltran/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/migueljbeltran/miguel-beltran.exe)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migueljoaquinbeltran@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migueljbeltran)
 
@@ -54,6 +55,7 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -61,6 +63,7 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -78,6 +81,31 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 
 ## Featured Projects
 
+### [Deadlock Tracker](https://github.com/migueljbeltran/deadlock-tracker) *(in development)*
+
+Full-stack statistics tracker for Deadlock (Valve's MOBA shooter) with an occult noir UI themed to the game's aesthetic.
+
+- Server-side integration with the Steam Web API and Deadlock Game Data API for player lookup, match history, hero stats, and regional leaderboards
+- PostgreSQL database with a relational Prisma schema modeling players, matches, heroes, abilities, and items with optimized indexes
+- Custom "Patron's Ledger" design system -- art deco dividers, sigil animations, soul-glow effects, and a full CSS custom property theme
+- Reusable component library (Button, Card, Input, SigilLoader) built with variant support via `clsx` and `tailwind-merge`
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS` `Framer Motion` `Steam API`
+
+---
+
+### [miguel-beltran.exe](https://github.com/migueljbeltran/miguel-beltran.exe)
+
+Personal portfolio site built with a Neo-Brutalist design philosophy: high contrast, raw typography, and asymmetrical layouts.
+
+- Custom reactive crosshair cursor with CSS-only glitch animations using `mix-blend-mode: difference`
+- Live GitHub stats streamed via the GitHub API -- repos, followers, commits, and contribution graph
+- Scroll-reveal animations with IntersectionObserver and infinite-scroll marquee banners
+
+`HTML5` `Tailwind CSS` `Vanilla JS` `GitHub API`
+
+---
+
 ### [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
 
 Custom 8-bit processor designed from the ground up in Logisim.
@@ -90,7 +118,7 @@ Custom 8-bit processor designed from the ground up in Logisim.
 
 ---
 
-### [Questify](https://github.com/migueljbeltran/Questify)
+### [Questify](https://github.com/migueljbeltran/Questify) *(in development)*
 
 Gamified productivity platform where users earn XP, unlock achievements, and level up by completing real tasks.
 
