@@ -74,13 +74,16 @@ Personal portfolio site built with a Neo-Brutalist design philosophy: high contr
 
 ---
 
-### Other Notable Work
+### [Kitch](https://github.com/migueljbeltran/Kitch)
 
-**Python/Flask Slack Bot** -- FAQ automation with fuzzy-matching search, integrated via the Slack API and adopted by 6+ board members for daily use.
+Desktop kitchen inventory and recipe management app with a custom dark-themed Swing GUI.
 
-**React Admin Dashboard** -- Event and member management platform for an organization of 100+ members, backed by Firestore.
+- MVC architecture with Observer pattern -- tables auto-update when models change
+- Inventory tracking with auto-migration of out-of-stock items to shopping lists
+- Recipe builder with ingredient management and step-by-step instructions
+- File-based CSV persistence with atomic writes and auto-save on every change
 
-**[Kitch](https://github.com/migueljbeltran/Kitch)** -- Kitchen inventory management system built in Java with MVC architecture, binary search optimization, and atomic write operations.
+`Java` `Swing` `MVC` `CSV`
 
 ---
 
@@ -95,6 +98,8 @@ Personal portfolio site built with a Neo-Brutalist design philosophy: high contr
 **Picnic Day** -- Developing a React/TypeScript event scheduling platform with MapBox GL JS integration and a Supabase REST API backend, built to serve UC Davis's 70,000+ annual Picnic Day attendees.
 
 **Include** -- Building a production Next.js website for UC Davis Space and Satellite Systems, shipping features in Agile sprints with structured code reviews.
+
+**GDSC** -- Built a Python/Flask Slack Bot with fuzzy-matching FAQ search, integrated via the Slack API and adopted by 6+ board members for daily use. Also developed a React Admin Dashboard for event and member management across an organization of 100+ members, backed by Firestore.
 
 ---
 
