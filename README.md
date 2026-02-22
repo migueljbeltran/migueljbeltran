@@ -51,10 +51,8 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=openjdk&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-0000BB?style=flat&logo=h2&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 
@@ -66,12 +64,23 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ---
 
 ## Featured Projects
+
+### [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
+
+Custom 8-bit processor designed from the ground up in Logisim.
+
+- Full 5-stage pipeline with data forwarding and hazard detection
+- 16-instruction ISA with microcode-based control unit
+- 21 control signals managed across 17 microcode states
+
+`Logisim` `Digital Logic` `Computer Architecture` `Assembly`
+
+---
 
 ### [Deadlock Tracker](https://github.com/migueljbeltran/deadlock-tracker)
 
@@ -99,15 +108,16 @@ Medieval guild-themed gamified task app for roommates — turn chores into quest
 
 ---
 
-### [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
+### [Kitch](https://github.com/migueljbeltran/Kitch)
 
-Custom 8-bit processor designed from the ground up in Logisim.
+Full-stack kitchen inventory & recipe app with a Spring Boot REST API and React frontend.
 
-- Full 5-stage pipeline with data forwarding and hazard detection
-- 16-instruction ISA with microcode-based control unit
-- 21 control signals managed across 17 microcode states
+- React frontend with inventory dashboard, shopping list UI with progress tracking, and cookbook-style recipe browser
+- Spring Boot REST API with JPA/H2 database and full CRUD on all resources
+- Auto-management of shopping lists and category grouping
+- CSV data seeding on first startup
 
-`Logisim` `Digital Logic` `Computer Architecture` `Assembly`
+`Java` `Spring Boot` `React` `Vite` `Tailwind CSS` `Maven`
 
 ---
 
@@ -120,19 +130,6 @@ Personal portfolio site built with a Neo-Brutalist design philosophy: high contr
 - Scroll-reveal animations with IntersectionObserver and infinite-scroll marquee banners
 
 `HTML5` `Tailwind CSS` `Vanilla JS` `GitHub API`
-
----
-
-### [Kitch](https://github.com/migueljbeltran/Kitch)
-
-Full-stack kitchen inventory & recipe app with a Spring Boot REST API and React frontend.
-
-- React frontend with inventory dashboard, shopping list UI with progress tracking, and cookbook-style recipe browser
-- Spring Boot REST API with JPA/H2 database and full CRUD on all resources
-- Auto-management of shopping lists and category grouping
-- CSV data seeding on first startup
-
-`Java` `Spring Boot` `React` `Vite` `Tailwind CSS` `H2` `JPA` `Maven`
 
 ---
 
