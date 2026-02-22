@@ -67,7 +67,7 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 
 ## Featured Projects
 
-### [Deadlock Tracker](https://github.com/migueljbeltran/deadlock-tracker) *(in development)*
+### [Deadlock Tracker](https://github.com/migueljbeltran/deadlock-tracker)
 
 Full-stack statistics tracker for Deadlock (Valve's MOBA shooter) with an occult noir UI themed to the game's aesthetic.
 
@@ -80,15 +80,16 @@ Full-stack statistics tracker for Deadlock (Valve's MOBA shooter) with an occult
 
 ---
 
-### [Questify](https://github.com/migueljbeltran/Questify) *(in development)*
+### [Questify](https://github.com/migueljbeltran/Questify)
 
-Gamified productivity platform where users earn XP, unlock achievements, and level up by completing real tasks.
+Medieval guild-themed gamified task app for roommates — turn chores into quests and climb the ranks.
 
-- Server-authoritative state management preventing client-side manipulation
-- Row-Level Security policies for multi-tenant data isolation
-- CI/CD pipeline via GitHub Actions with Playwright E2E testing and Sentry monitoring
+- Bounty board system with variable gold rewards and rank progression from Recruit to Grand Master
+- Daily streak tracking, quest history chronicles, and guild stats dashboard
+- Medieval aesthetic with deep navy + burnished gold palette and ornamental UI elements
+- CI/CD pipeline via GitHub Actions with Playwright E2E testing and Husky pre-commit hooks
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `GitHub Actions`
+`Next.js` `TypeScript` `React` `Supabase` `PostgreSQL` `Tailwind CSS` `Playwright` `GitHub Actions`
 
 ---
 
@@ -118,14 +119,14 @@ Personal portfolio site built with a Neo-Brutalist design philosophy: high contr
 
 ### [Kitch](https://github.com/migueljbeltran/Kitch)
 
-Desktop kitchen inventory and recipe management app with a custom dark-themed Swing GUI.
+Full-stack kitchen inventory & recipe app with a Spring Boot REST API and React frontend.
 
-- MVC architecture with Observer pattern -- tables auto-update when models change
-- Inventory tracking with auto-migration of out-of-stock items to shopping lists
-- Recipe builder with ingredient management and step-by-step instructions
-- File-based CSV persistence with atomic writes and auto-save on every change
+- React frontend with inventory dashboard, shopping list UI with progress tracking, and cookbook-style recipe browser
+- Spring Boot REST API with JPA/H2 database and full CRUD on all resources
+- Auto-management of shopping lists and category grouping
+- CSV data seeding on first startup
 
-`Java` `Swing` `MVC` `CSV`
+`Java` `Spring Boot` `React` `Vite` `Tailwind CSS` `H2` `JPA` `Maven`
 
 ---
 
