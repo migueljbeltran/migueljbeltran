@@ -82,19 +82,6 @@ Custom 8-bit processor designed from the ground up in Logisim.
 
 ---
 
-### [Deadlock Tracker](https://github.com/migueljbeltran/deadlock-tracker)
-
-Full-stack statistics tracker for Deadlock (Valve's MOBA shooter) with an occult noir UI themed to the game's aesthetic.
-
-- Server-side integration with the Steam Web API and Deadlock Game Data API for player lookup, match history, hero stats, and regional leaderboards
-- PostgreSQL database with a relational Prisma schema modeling players, matches, heroes, abilities, and items with optimized indexes
-- Custom "Patron's Ledger" design system -- art deco dividers, sigil animations, soul-glow effects, and a full CSS custom property theme
-- Reusable component library (Button, Card, Input, SigilLoader) built with variant support via `clsx` and `tailwind-merge`
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS` `Framer Motion` `Steam API`
-
----
-
 ### [Questify](https://github.com/migueljbeltran/Questify)
 
 Medieval guild-themed gamified task app for roommates — turn chores into quests and climb the ranks.
@@ -105,6 +92,19 @@ Medieval guild-themed gamified task app for roommates — turn chores into quest
 - CI/CD pipeline via GitHub Actions with Playwright E2E testing and Husky pre-commit hooks
 
 `Next.js` `TypeScript` `React` `Supabase` `PostgreSQL` `Tailwind CSS` `Playwright` `GitHub Actions`
+
+---
+
+### [Deadlock Tracker](https://github.com/migueljbeltran/deadlock-tracker)
+
+Full-stack statistics tracker for Deadlock (Valve's MOBA shooter) with an occult noir UI themed to the game's aesthetic.
+
+- Server-side integration with the Steam Web API and Deadlock Game Data API for player lookup, match history, hero stats, and regional leaderboards
+- PostgreSQL database with a relational Prisma schema modeling players, matches, heroes, abilities, and items with optimized indexes
+- Custom "Patron's Ledger" design system -- art deco dividers, sigil animations, soul-glow effects, and a full CSS custom property theme
+- Reusable component library (Button, Card, Input, SigilLoader) built with variant support via `clsx` and `tailwind-merge`
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS` `Framer Motion` `Steam API`
 
 ---
 
