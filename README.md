@@ -33,6 +33,7 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Frontend**
@@ -41,7 +42,9 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![Mapbox GL JS](https://img.shields.io/badge/Mapbox_GL_JS-000000?style=flat&logo=mapbox&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -54,6 +57,7 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 **Tools & Infrastructure**
@@ -64,6 +68,9 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ---
@@ -75,7 +82,7 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 Custom 8-bit processor designed from the ground up in Logisim.
 
 - Full 5-stage pipeline with data forwarding and hazard detection
-- 16-instruction ISA with microcode-based control unit
+- 20+ instruction ISA with microcode-based control unit
 - 21 control signals managed across 17 microcode states
 
 `Logisim` `Digital Logic` `Computer Architecture` `Assembly`
@@ -86,8 +93,8 @@ Custom 8-bit processor designed from the ground up in Logisim.
 
 Medieval guild-themed gamified task app for roommates — turn chores into quests and climb the ranks.
 
-- Bounty board system with variable gold rewards and rank progression from Recruit to Grand Master
-- Daily streak tracking, quest history chronicles, and guild stats dashboard
+- Gamification engine with XP progression, level thresholds, and an achievement system driving task completion
+- Supabase Realtime subscriptions for live quest board updates and row-level security policies for multi-user data isolation
 - Medieval aesthetic with deep navy + burnished gold palette and ornamental UI elements
 - CI/CD pipeline via GitHub Actions with Playwright E2E testing and Husky pre-commit hooks
 
@@ -99,8 +106,8 @@ Medieval guild-themed gamified task app for roommates — turn chores into quest
 
 Full-stack statistics tracker for Deadlock (Valve's MOBA shooter) with an occult noir UI themed to the game's aesthetic.
 
-- Server-side integration with the Steam Web API and Deadlock Game Data API for player lookup, match history, hero stats, and regional leaderboards
-- PostgreSQL database with a relational Prisma schema modeling players, matches, heroes, abilities, and items with optimized indexes
+- Modular REST APIs with server-side rendering for player lookup, match history, hero stats, and regional leaderboards
+- Normalized PostgreSQL schemas via Prisma ORM modeling players, matches, heroes, abilities, and items with indexed queries
 - Custom "Patron's Ledger" design system -- art deco dividers, sigil animations, soul-glow effects, and a full CSS custom property theme
 - Reusable component library (Button, Card, Input, SigilLoader) built with variant support via `clsx` and `tailwind-merge`
 
@@ -112,10 +119,10 @@ Full-stack statistics tracker for Deadlock (Valve's MOBA shooter) with an occult
 
 Full-stack kitchen inventory & recipe app with a Spring Boot REST API and React frontend.
 
+- Separate service layers with object-oriented design patterns for inventory, recipes, and shopping list domains
+- Shared relational schema with Spring Boot REST API and full CRUD on all resources
+- Batched queries for recipe-to-ingredient resolution and automatic shopping list population
 - React frontend with inventory dashboard, shopping list UI with progress tracking, and cookbook-style recipe browser
-- Spring Boot REST API with JPA/H2 database and full CRUD on all resources
-- Auto-management of shopping lists and category grouping
-- CSV data seeding on first startup
 
 `Java` `Spring Boot` `React` `Vite` `Tailwind CSS` `Maven`
 
@@ -141,11 +148,11 @@ Personal portfolio site built with a Neo-Brutalist design philosophy: high contr
 | **Software Engineer** | Include / UC Davis Space & Satellite Systems | Oct 2025 -- Present |
 | **Software Engineer** | Google Developer Student Club | Oct 2024 -- June 2025 |
 
-**Picnic Day** -- Developing a React/TypeScript event scheduling platform with MapBox GL JS integration and a Supabase REST API backend, built to serve UC Davis's 70,000+ annual Picnic Day attendees.
+**Picnic Day** -- Architected a React/TypeScript event scheduler with Leaflet and Mapbox Directions API, enabling interactive itinerary planning across 70,000+ annual attendees. Modeled event and schedule data in Supabase with relational schemas supporting real-time itinerary updates and persistent user session state.
 
-**Include** -- Building a production Next.js website for UC Davis Space and Satellite Systems, shipping features in Agile sprints with structured code reviews.
+**Include** -- Developed 10+ reusable React components with Tailwind CSS, establishing a shared design system. Collaborated in a 6-person Agile team using Git, pull requests, and code reviews to ship features on a weekly cadence.
 
-**GDSC** -- Built a Python/Flask Slack Bot with fuzzy-matching FAQ search, integrated via the Slack API and adopted by 6+ board members for daily use. Also developed a React Admin Dashboard for event and member management across an organization of 100+ members, backed by Firestore.
+**GDSC** -- Developed a Python/Flask Slack bot integrating the Slack API to automate 4+ weekly announcements for a 100+ member organization. Implemented a two-stage FAQ retrieval system using fuzzy string matching (Levenshtein distance) with keyword fallback. Built a React admin dashboard backed by Firestore supporting full CRUD operations for 100+ member profiles.
 
 ---
 
