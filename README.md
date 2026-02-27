@@ -7,7 +7,7 @@
 Grew up competing in games and building the PCs to run them. Now I engineer the software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-j-beltran/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://migueljbeltran.github.io/miguel-beltran.exe/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://migueljbeltran.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migueljoaquinbeltran@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migueljbeltran)
 
@@ -121,7 +121,7 @@ Full-stack kitchen inventory & recipe app with a Spring Boot REST API and React 
 
 ---
 
-### [miguel-beltran.exe](https://github.com/migueljbeltran/miguel-beltran.exe)
+### [miguel-beltran.exe](https://migueljbeltran.github.io/)
 
 Personal portfolio site built with a Neo-Brutalist design philosophy: high contrast, raw typography, and asymmetrical layouts.
 
