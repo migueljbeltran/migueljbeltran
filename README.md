@@ -130,7 +130,7 @@ Personal portfolio site built with a Neo-Brutalist design philosophy: high contr
 
 ---
 
-## What I'm Building
+## Experiences
 
 | Role | Organization | Period |
 |------|-------------|--------|
