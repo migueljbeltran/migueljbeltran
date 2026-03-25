@@ -117,6 +117,17 @@ Full-stack kitchen management app with a Spring Boot REST API and React frontend
 
 ---
 
+### [Questify](https://github.com/migueljbeltran/Questify)
+
+Medieval guild-themed gamified task app for roommates — turn chores into quests and climb the ranks.
+
+- Built a gamification engine with XP progression, level thresholds, and achievements using Supabase Realtime for async state sync across sessions
+- Implemented row-level security (RLS) policies and a GitHub Actions CI/CD pipeline, reducing deployments from manual steps to fully automated releases
+
+`Next.js` `TypeScript` `React` `Supabase` `PostgreSQL` `Tailwind CSS` `Playwright` `GitHub Actions`
+
+---
+
 ### [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
 
 Custom 8-bit processor designed from the ground up in Logisim.
@@ -132,7 +143,7 @@ Custom 8-bit processor designed from the ground up in Logisim.
 | Role | Organization | Period |
 |------|-------------|--------|
 | **Assistant Technical Director** | ASUCD Picnic Day | Nov 2025 -- Present |
-| **Software Engineer** | Include / UC Davis Space & Satellite Systems | Oct 2025 -- Present |
+| **Software Engineer** | Include | Oct 2025 -- Present |
 | **Software Engineer** | Google Developer Student Club | Oct 2024 -- June 2025 |
 
 ---
@@ -141,6 +152,6 @@ Custom 8-bit processor designed from the ground up in Logisim.
 
 Open to collaborations, internships, and interesting technical conversations.
 
-**Let's build something worth playing.**
+**Always building, always learning.**
 
 </div>
