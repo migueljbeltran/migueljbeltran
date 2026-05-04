@@ -1,84 +1,91 @@
 <div align="center">
 
-# Miguel Beltran
-
-**Computer Science @ UC Davis | Class of 2027**
-
-Grew up competing in games and building the PCs to run them. Now I engineer the software.
+![Miguel Beltran](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,45:2563eb,100:16a34a&text=Miguel%20Beltran&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Full-stack%20software%20engineer%20|%20building%20useful,%20polished%20tools&descSize=18&descAlignY=58)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-j-beltran/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://migueljbeltran.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://migueljbeltran.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migueljoaquinbeltran@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-I've been tearing apart hardware and exploring game systems since I was a kid. That curiosity -- wanting to know *how things actually work* under the hood -- is what pulled me into computer science. I have too many hobbies, so I build software around the things I actually care about -- games, tools, and platforms that aren't boring.
+```txt
+name        Miguel Beltran
+focus       full-stack engineering, data-backed products, maps, APIs, systems
+style       practical builder, careful debugger, product-minded teammate
+favorite    turning real-world complexity into interfaces people can trust
+```
 
-**I'm actively seeking Summer 2026 software engineering internships** in full-stack development, gaming, or systems. Authorized to work in the US via CPT (no sponsorship required).
+I am drawn to projects with texture: APIs that need taming, data that needs a home, and interfaces where the tiny details matter. I like making tools that make everyday life a little easier, whether that means planning a packed campus event, organizing a shared kitchen, or digging into the stats behind my favorite games.
 
 ---
 
-## Tech Stack
+## Toolkit
 
-**Languages**
+**Core Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d4ed8?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=111827)
+![Python](https://img.shields.io/badge/Python-2563eb?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b45309?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-64748b?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0369a1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
+**Frontend and Product UI**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
-![Mapbox GL JS](https://img.shields.io/badge/Mapbox_GL_JS-000000?style=flat&logo=mapbox&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0891b2?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f766e?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-111827?style=for-the-badge&logo=radixui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-c2410c?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-be185d?style=for-the-badge&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-7c3aed?style=for-the-badge&logo=framer&logoColor=white)
 
-**Backend**
+**Backend and API Engineering**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-15803d?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-16a34a?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0f766e?style=for-the-badge&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-334155?style=for-the-badge&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-2563eb?style=for-the-badge&logo=zod&logoColor=white)
 
-**Data**
+**Databases, Realtime, and Maps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-075985?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-b91c1c?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-047857?style=for-the-badge&logo=supabase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-f59e0b?style=for-the-badge&logo=firebase&logoColor=111827)
+![Mapbox](https://img.shields.io/badge/Mapbox-111827?style=for-the-badge&logo=mapbox&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-15803d?style=for-the-badge&logo=leaflet&logoColor=white)
 
-**ML**
+**ML and Data Science**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ea580c?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-dc2626?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-166534?style=for-the-badge&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f97316?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-312e81?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0f766e?style=for-the-badge&logo=numpy&logoColor=white)
 
-**DevOps & Tools**
+**Testing, DevOps, and Developer Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-c2410c?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2563eb?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0284c7?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-65a30d?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-15803d?style=for-the-badge&logo=playwright&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-6d28d9?style=for-the-badge&logo=sentry&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
+![Logisim](https://img.shields.io/badge/Logisim-334155?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -86,72 +93,70 @@ I've been tearing apart hardware and exploring game systems since I was a kid. T
 
 ### [dltracker](https://github.com/migueljbeltran/deadlock-tracker)
 
-Full-stack analytics platform for Deadlock (Valve's MOBA shooter) with player search, hero/item win rates, leaderboards, and match scoreboards.
+> Game analytics for people who want numbers behind the match.
 
-- Built a 10-page, 45-component analytics platform consuming Steam and Deadlock APIs, featuring player search via vanity URL resolution, hero/item win rates across rank brackets, 5-region leaderboards with a 3-signal identity disambiguation algorithm, and match scoreboards with per-player item builds
-- Achieved production-grade reliability with IP-based rate limiting (10 req/60s via Upstash Redis), Zod input validation, Sentry error tracking, and 6-tier ISR caching (60s--24h) including an in-memory cache to handle a 2.5MB API response
+Full-stack analytics platform for Deadlock with player search, hero/item win rates, regional leaderboards, match scoreboards, identity disambiguation, rate limiting, Zod validation, Sentry tracking, and layered caching for large API responses.
 
-`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Redis`
+`game data` `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Redis` `Sentry`
 
----
+### [ASUCD Picnic Day Scheduler](https://github.com/ucdavis/ASUCD-PicnicDay-Scheduler)
+
+> A campus day planner for one of UC Davis's biggest events.
+
+Built with a team for UC Davis Picnic Day, this app helps visitors browse hundreds of events, build a personal schedule, see event pins on a campus map, get walking routes, and export their plans. Event data flows from Google Sheets into SQLite, then into API-backed Next.js views.
+
+`team project` `campus software` `Next.js` `React` `TypeScript` `SQLite` `Leaflet` `Mapbox` `Vercel`
 
 ### [Song Popularity Predictor](https://github.com/Rytham1/song-popularity-predictor)
 
-ML pipeline that benchmarks 5 models on 32,000+ Spotify tracks to predict hit classification.
+> Spotify tracks, feature engineering, and a model reality check.
 
-- Benchmarked 5 models on 32,000+ Spotify tracks; pivoted from regression (R² ≈ 0.20) to binary hit classification after raw audio features alone explained minimal variance in popularity
-- Engineered artist average popularity and one-hot encoded genre/subgenre features with GridSearchCV tuning, boosting Random Forest to 80% accuracy (AUC 0.79), a 12-point gain over baseline Logistic Regression
+ML pipeline that benchmarked 5 models on 32,000+ Spotify tracks, moved from low-signal regression to binary hit classification, and reached 80% Random Forest accuracy with artist popularity and genre features.
 
-`Python` `TensorFlow` `XGBoost` `scikit-learn` `Pandas` `NumPy`
-
----
+`machine learning` `Python` `TensorFlow` `XGBoost` `scikit-learn` `Pandas` `NumPy`
 
 ### [Kitch](https://github.com/migueljbeltran/Kitch)
 
-Full-stack kitchen management app with a Spring Boot REST API and React frontend.
+> Inventory, shopping lists, and fewer roommate kitchen mysteries.
 
-- Designed a full-stack kitchen management app with a 15-endpoint Spring Boot REST API across 3 controllers, 3-layer MVC architecture, a normalized 3-table schema with cascading deletes, and a global exception handler
-- Eliminated N+1 queries with JPQL fetch joins and built a transactional batch operation to auto-migrate zero-stock inventory items to the shopping list
+Full-stack kitchen management app with a Spring Boot REST API, React frontend, MVC architecture, normalized schema, cascading deletes, global exception handling, JPQL fetch joins, and transactional inventory migration.
 
-`Java` `Spring Boot` `React` `Tailwind CSS` `H2`
-
----
+`full-stack` `Java` `Spring Boot` `React` `Tailwind CSS` `H2`
 
 ### [Questify](https://github.com/migueljbeltran/Questify)
 
-Medieval guild-themed gamified task app for roommates — turn chores into quests and climb the ranks.
+> Chores, but make them a guild quest.
 
-- Built a gamification engine with XP progression, level thresholds, and achievements using Supabase Realtime for async state sync across sessions
-- Implemented row-level security (RLS) policies and a GitHub Actions CI/CD pipeline, reducing deployments from manual steps to fully automated releases
+Realtime gamified task app for roommates with XP progression, levels, achievements, Supabase state sync, row-level security, and automated deployment.
 
-`Next.js` `TypeScript` `React` `Supabase` `PostgreSQL` `Tailwind CSS` `Playwright` `GitHub Actions`
-
----
+`gamification` `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `GitHub Actions`
 
 ### [8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)
 
-Custom 8-bit processor designed from the ground up in Logisim.
+> Tiny processor, real pipeline problems.
 
-- Designed a 5-stage pipelined 8-bit CPU with data forwarding and hazard detection, correctly executing 20+ custom ISA instructions with zero pipeline stalls on forwarded operands
+Custom 8-bit processor designed in Logisim with a 5-stage pipeline, forwarding, hazard detection, and 20+ custom ISA instructions.
 
-`Logisim` `Digital Logic` `Computer Architecture`
+`computer architecture` `Logisim` `digital logic` `custom ISA`
 
 ---
 
-## Experiences
+## Experience
 
 | Role | Organization | Period |
 |------|-------------|--------|
-| **Assistant Technical Director** | ASUCD Picnic Day | Nov 2025 -- Present |
-| **Software Engineer** | Include | Oct 2025 -- Present |
-| **Software Engineer** | Google Developer Student Club | Oct 2024 -- June 2025 |
+| **Assistant Technical Director** | ASUCD Picnic Day | Nov 2025 - Present |
+| **Software Engineer** | Include | Oct 2025 - Present |
+| **Software Engineer** | Google Developer Student Club | Oct 2024 - June 2025 |
 
 ---
 
 <div align="center">
 
-Open to collaborations, internships, and interesting technical conversations.
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migueljbeltran&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400) | ![Miguel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migueljbeltran&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400) |
 
-**Always building, always learning.**
+**Making useful things feel a little easier, cleaner, and more human.**
 
 </div>
