@@ -79,22 +79,40 @@ I like making complicated things feel straightforward—and building around thin
 ![React](https://img.shields.io/badge/React-256b80?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-256b80?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-256b80?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-256b80?style=flat-square&logo=sass&logoColor=white)
 
-**Backend & data**
+**Backend & APIs**
 
 ![C#](https://img.shields.io/badge/C%23-8c4c60?style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-8c4c60?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-8c4c60?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8c4c60?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8c4c60?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-8c4c60?style=flat-square&logo=redis&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-8c4c60?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-8c4c60?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8c4c60?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Shipping**
+**Data & persistence**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-256b80?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-256b80?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-256b80?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-256b80?style=flat-square&logo=prisma&logoColor=white)
+
+**Testing & delivery**
 
 ![Docker](https://img.shields.io/badge/Docker-675593?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-675593?style=flat-square&logo=githubactions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-675593?style=flat-square)
 ![Vitest](https://img.shields.io/badge/Vitest-675593?style=flat-square&logo=vitest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-675593?style=flat-square&logo=pytest&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-675593?style=flat-square)
+
+**Machine learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-8c4c60?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-8c4c60?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-8c4c60?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-8c4c60?style=flat-square&logo=pandas&logoColor=white)
 
 <details>
 <summary><strong>Open the full toolbox</strong></summary>
