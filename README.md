@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://migueljbeltran.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-256b80?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
-  <a href="https://migueljbeltran.github.io/Assets/Resume/Miguel_Beltran_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/RESUME-8c4c60?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/miguel-j-beltran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-24364b?style=for-the-badge&amp;logoColor=white" /></a>
   <a href="mailto:migueljoaquinbeltran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-675593?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
