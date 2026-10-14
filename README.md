@@ -62,12 +62,14 @@ I like making complicated things feel straightforward—and building around thin
 
 ### Where I've been building
 
-| Team | Role & dates | Work |
-| :--- | :--- | :--- |
-| **UC Davis IET** | Junior Application Developer · Jun 2026–Present | C#/.NET advising systems and OASIS-uAchieve integrations supporting UC Davis's 31,000+ undergraduate population; student-form processing and release verification. |
-| **ASUCD Picnic Day** | Assistant Technical Director · Nov 2025–May 2026 | Schedule Builder, interactive maps, calendar exports, SQLite/Google Sheets sync, and Docker Compose setup. |
-| **#include Davis** | Software Engineer · Oct 2025–Apr 2026 | Responsive React/Next.js client features for Space and Satellite Systems. |
-| **Google Developer Student Clubs** | Software Engineer · Oct 2024–Jun 2025 | Python/Flask Slack bot for onboarding and scheduled announcements, saving organizers 2+ hours per week. |
+- **UC Davis IET · Junior Application Developer** — Jun 2026–Present<br />
+  C#/.NET advising systems and OASIS-uAchieve integrations supporting UC Davis's 31,000+ undergraduate population; student-form processing and release verification.
+- **ASUCD Picnic Day · Assistant Technical Director** — Nov 2025–May 2026<br />
+  Schedule Builder, interactive maps, calendar exports, SQLite/Google Sheets sync, and Docker Compose setup.
+- **#include Davis · Software Engineer** — Oct 2025–Apr 2026<br />
+  Responsive React/Next.js client features for Space and Satellite Systems.
+- **Google Developer Student Clubs · Software Engineer** — Oct 2024–Jun 2025<br />
+  Python/Flask Slack bot for onboarding and scheduled announcements, saving organizers 2+ hours per week.
 
 ### My toolkit
 
