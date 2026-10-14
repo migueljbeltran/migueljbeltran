@@ -1,43 +1,101 @@
-<div align="center">
+![Miguel Beltran — software engineer, UC Davis CS 2027](assets/workstation.svg)
 
-![Miguel Beltran](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020403,45:14532d,100:84cc16&animation=fadeIn&text=Miguel%20Beltran&fontColor=f7fee7&fontSize=54&fontAlignY=36&desc=Full-stack%20software%20engineer%20building%20useful,%20tested,%20human-centered%20tools&descSize=17&descAlignY=58&descColor=d9f99d)
+<p align="center">
+  <a href="https://migueljbeltran.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-256b80?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+  <a href="https://migueljbeltran.github.io/Assets/Resume/Miguel_Beltran_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/RESUME-8c4c60?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/miguel-j-beltran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-24364b?style=for-the-badge&amp;logoColor=white" /></a>
+  <a href="mailto:migueljoaquinbeltran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-675593?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3f6212?style=for-the-badge&logo=googlechrome&logoColor=white)](https://migueljbeltran.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-4d7c0f?style=for-the-badge&logo=readthedocs&logoColor=white)](https://migueljbeltran.github.io/Assets/Resume/Miguel_Beltran_Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-j-beltran/)
-[![Email](https://img.shields.io/badge/Email-1a2e05?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migueljoaquinbeltran@gmail.com)
+I'm **Miguel**, a **UC Davis Computer Science student graduating in June 2027** and **Junior Application Developer at UC Davis IET**. I build across the stack, from C#/.NET advising systems to event tools and game analytics.
 
-<br />
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=A3E635&center=true&vCenter=true&width=760&lines=React+and+TypeScript+frontends;C%23%2F.NET%2C+Java%2C+and+Python+backends;Data%2C+ML%2C+testing%2C+and+polished+product+work)
-
-</div>
-
-
----
-
-I build software people rely on: university advising systems, event tools, and game analytics. I enjoy the work between a clear interface and a dependable backend, especially when it involves untangling data flows and testing the paths that matter.
-
-I'm studying **Computer Science at UC Davis**, graduating in **June 2027**. Currently, I'm a **Junior Application Developer at UC Davis IET**. Previously, I was **Assistant Technical Director for ASUCD Picnic Day**.
-
-### Current work & recent experience
-
-- **UC Davis IET** — C#/.NET advising applications and OASIS-uAchieve integrations supporting a university population of **31,000+ undergraduates**. My work includes student-form processing, academic-credit calculations, release verification, degree-audit code review, and documentation for a ServiceNow migration.
-- **[Picnic Day](https://pd-schedule-builder.vercel.app/) · Nov 2025 – May 2026** — Designed and developed the React/TypeScript Schedule Builder for an event with **70,000+ attendees**, including onboarding, interactive maps, calendar exports, SQLite data workflows, authenticated Google Sheets sync, and Docker Compose setup.
-- **dltracker** — a deployed Deadlock analytics platform used by **1,000+ users**, with player profiles, regional leaderboards, caching, and automated release checks.
+I like making complicated things feel straightforward—and building around things I care about.
 
 ### Selected builds
 
-| Project | What I built | Stack |
-| :--- | :--- | :--- |
-| **[dltracker](https://github.com/migueljbeltran/deadlock-tracker)** · [live](https://dltracker.app/) | Steam and Deadlock API integration, player identity resolution across 5 regional leaderboards, Redis caching, rate limiting, and outage fallbacks. | TypeScript, Next.js, Redis, Playwright, Vitest |
-| **[Picnic Day Schedule Builder](https://github.com/ucdavis/ASUCD-PicnicDay-Scheduler)** · [live](https://pd-schedule-builder.vercel.app/) | Event discovery, onboarding, maps, calendar exports, and synchronized event data for UC Davis Picnic Day. | React, TypeScript, SQLite, Docker |
-| **[Space and Satellite Systems](https://www.spacesystemsclub.org/)** · [live](https://www.spacesystemsclub.org/) | Responsive client website features built from Figma designs at #include Davis, with reusable desktop and mobile components. | React, Next.js, SCSS |
-| **[Spotify Hit Classifier](https://github.com/Rytham1/song-popularity-predictor)** | Feature engineering and model tuning over **32,000+ tracks**, achieving **80% Random Forest accuracy**. | Python, TensorFlow, XGBoost, scikit-learn |
-| **[Kitch](https://github.com/migueljbeltran/Kitch)** | Kitchen inventory, shopping lists, and recipes, with a layered backend and **20+ REST endpoints**. | Java, Spring Boot, React, JPA, H2 |
-| **[8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)** | A 5-stage pipelined processor with forwarding, hazard detection, and 20+ custom ISA instructions. | Logisim, digital logic |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dltracker.app/"><img src="assets/dltracker.png" width="420" alt="dltracker preview" /></a>
+      <h3>dltracker</h3>
+      <p><strong>Game analytics · 1,000+ users</strong></p>
+      <p>Built player profiles, identity resolution across five regional leaderboards, Redis caching, and release checks.</p>
+      <p><sub>Next.js · TypeScript · Redis · Playwright</sub></p>
+      <p><a href="https://dltracker.app/"><img alt="Live site" src="https://img.shields.io/badge/LIVE-83d8d5?style=flat-square&amp;logo=googlechrome&amp;logoColor=101d2d" /></a> <a href="https://github.com/migueljbeltran/deadlock-tracker"><img alt="Source code" src="https://img.shields.io/badge/CODE-24364b?style=flat-square&amp;logo=github&amp;logoColor=fff3dc" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://pd-schedule-builder.vercel.app/"><img src="assets/picnic-day.png" width="420" alt="Picnic Day Schedule Builder preview" /></a>
+      <h3>Picnic Day Schedule Builder</h3>
+      <p><strong>Event tools · UC Davis</strong></p>
+      <p>Designed and developed the Schedule Builder for an event with 70,000+ attendees: maps, exports, and synchronized event data.</p>
+      <p><sub>React · TypeScript · SQLite · Docker</sub></p>
+      <p><a href="https://pd-schedule-builder.vercel.app/"><img alt="Live site" src="https://img.shields.io/badge/LIVE-83d8d5?style=flat-square&amp;logo=googlechrome&amp;logoColor=101d2d" /></a> <a href="https://github.com/ucdavis/ASUCD-PicnicDay-Scheduler"><img alt="Source code" src="https://img.shields.io/badge/CODE-24364b?style=flat-square&amp;logo=github&amp;logoColor=fff3dc" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.spacesystemsclub.org/"><img src="assets/sss.jpg" width="420" alt="Space &amp; Satellite Systems preview" /></a>
+      <h3>Space &amp; Satellite Systems</h3>
+      <p><strong>Client work · #include Davis</strong></p>
+      <p>Delivered responsive website features from Figma designs, with reusable components for desktop and mobile.</p>
+      <p><sub>React · Next.js · SCSS</sub></p>
+      <p><a href="https://www.spacesystemsclub.org/"><img alt="Live site" src="https://img.shields.io/badge/LIVE-83d8d5?style=flat-square&amp;logo=googlechrome&amp;logoColor=101d2d" /></a> <a href="https://github.com/Space-and-Satellite-Systems-UC-Davis/sss-web-site"><img alt="Source code" src="https://img.shields.io/badge/CODE-24364b?style=flat-square&amp;logo=github&amp;logoColor=fff3dc" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/migueljbeltran/Kitch"><img src="assets/kitch.png" width="420" alt="Kitch preview" /></a>
+      <h3>Kitch</h3>
+      <p><strong>Full-stack kitchen management</strong></p>
+      <p>Built inventory, shopping-list, and recipe features around a layered Spring Boot backend with 20+ REST endpoints.</p>
+      <p><sub>Java · Spring Boot · React · JPA</sub></p>
+      <p><a href="https://github.com/migueljbeltran/Kitch"><img alt="Source code" src="https://img.shields.io/badge/CODE-24364b?style=flat-square&amp;logo=github&amp;logoColor=fff3dc" /></a></p>
+    </td>
+  </tr>
+</table>
 
-### Toolkit
+<details>
+<summary><strong>More side quests: machine learning &amp; computer architecture</strong></summary>
+
+- **[Spotify Hit Classifier](https://github.com/Rytham1/song-popularity-predictor)** — engineered features and tuned models over 32,000+ tracks, achieving 80% Random Forest accuracy. Python, TensorFlow, XGBoost, scikit-learn.
+- **[8-Bit CPU](https://github.com/migueljbeltran/8bit-cpu)** — a 5-stage pipelined processor with forwarding, hazard detection, and 20+ custom ISA instructions in Logisim.
+
+</details>
+
+### Where I've been building
+
+| Team | Role & dates | Work |
+| :--- | :--- | :--- |
+| **UC Davis IET** | Junior Application Developer · Jun 2026–Present | C#/.NET advising systems and OASIS-uAchieve integrations supporting UC Davis's 31,000+ undergraduate population; student-form processing and release verification. |
+| **ASUCD Picnic Day** | Assistant Technical Director · Nov 2025–May 2026 | Schedule Builder, interactive maps, calendar exports, SQLite/Google Sheets sync, and Docker Compose setup. |
+| **#include Davis** | Software Engineer · Oct 2025–Apr 2026 | Responsive React/Next.js client features for Space and Satellite Systems. |
+| **Google Developer Student Clubs** | Software Engineer · Oct 2024–Jun 2025 | Python/Flask Slack bot for onboarding and scheduled announcements, saving organizers 2+ hours per week. |
+
+### My toolkit
+
+**Interfaces**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-256b80?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-256b80?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-256b80?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-256b80?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & data**
+
+![C#](https://img.shields.io/badge/C%23-8c4c60?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-8c4c60?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8c4c60?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8c4c60?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8c4c60?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-8c4c60?style=flat-square&logo=redis&logoColor=white)
+
+**Shipping**
+
+![Docker](https://img.shields.io/badge/Docker-675593?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-675593?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-675593?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-675593?style=flat-square&logo=vitest&logoColor=white)
+
+<details>
+<summary><strong>Open the full toolbox</strong></summary>
 
 <table>
   <tr>
@@ -118,19 +176,12 @@ I'm studying **Computer Science at UC Davis**, graduating in **June 2027**. Curr
   </tr>
 </table>
 
-### Experience
-
-| Role | Team | Dates |
-| :--- | :--- | :--- |
-| **Junior Application Developer** | UC Davis Information & Educational Technology | Jun 2026 – Present |
-| **Assistant Technical Director** | ASUCD Picnic Day | Nov 2025 – May 2026 |
-| **Software Engineer** | #include Davis | Oct 2025 – Apr 2026 |
-| **Software Engineer** | Google Developer Student Clubs | Oct 2024 – Jun 2025 |
-
-At **#include Davis**, I delivered responsive React/Next.js features for the [Space and Satellite Systems client website](https://www.spacesystemsclub.org/) from Figma designs. At **GDSC**, I built a Python/Flask Slack bot for onboarding and scheduled announcements, saving organizers **2+ hours per week**.
+</details>
 
 ---
 
+**Away from the keyboard:** games, cooking for people, food crawls, anime, and learning electric guitar. Usually chasing a better build—or a cleaner chord.
+
 Based in **Davis, California**. Open to software engineering internships and full-stack opportunities.
 
-**[Let's talk →](mailto:migueljoaquinbeltran@gmail.com)**
+**[Got something worth building? Let's talk. →](mailto:migueljoaquinbeltran@gmail.com)**
